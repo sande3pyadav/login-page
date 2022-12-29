@@ -1,4 +1,5 @@
 <?php
+
 include("config.php");
 session_start();
 ?>
@@ -9,7 +10,7 @@ session_start();
 
   <body bgcolor="pink">
     <h3 id="logo"><img src="pttt.png" width="100" height="100" align="right"/></h3>
-    </br>
+    
     </br>
     </br>
     </br>
